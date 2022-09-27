@@ -1,0 +1,4 @@
+com\kgisl\book\Controller\BookController.class
+com\kgisl\book\Controller\HospitalController.class
+com\kgisl\book\entity\Hospital.class
+com\kgisl\book\entity\Book.class
